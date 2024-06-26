@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Buoi1</string>
+    <string name="content"> Android -Application Compoents:\n
+        1 Activity\n
+        2 Service\n
+        3 ContentProvider\n
+        4 BroadcastReceive
+
+    </string>
+</resources>
